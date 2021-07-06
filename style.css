@@ -1,0 +1,104 @@
+body{
+    font-family: 'Montserrat Alternates', sans-serif;
+    margin: 0;
+}
+
+.first-section{
+    display: flex;
+    margin: 0 25px;
+    margin-bottom: 50px;
+}
+
+h1{
+    font-size: 40px;
+    color: #575757;
+}
+
+.highlight-text{
+    color: rgb(11, 151, 140);
+    font-size: 50px;
+}
+
+.half-width{
+    width: 50%;
+}
+
+p{
+    text-align: justify;
+}
+
+.text-area{
+    margin-top: 40px;
+}
+
+.image-size{
+    
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(9, 143, 148) , cyan);
+    padding: 10px 30px;
+    border-radius: 20px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.second-section{
+    display: flex;
+    background-image: url(images/frame.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.image-size-second{
+
+width: 93%;
+}
+
+#text-area-two{
+    padding-top: 100px;
+}
+
+#third-section{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 15px;
+}
+
+#recipe{
+    width: 600px;
+    margin-left: 350px;
+    text-align: center;
+}
+
+.recipe{
+    width: 350px;
+    box-shadow: 10px 10px 40px gray;
+    margin: 30px;
+    border-radius: 20px;
+}
+
+.recipe-img{
+    width: 320px;
+    height: 250px;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+.recipe-menu{
+    padding: 0 20px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    height: 200px;
+    padding-top: 30px;
+    margin-top: 80px;
+}
+
+.highlight-text-two{
+    color: aquamarine;
+}
