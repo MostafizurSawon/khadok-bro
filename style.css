@@ -28,11 +28,11 @@ p{
 }
 
 .text-area{
-    margin-top: 40px;
+    margin-top: 60px;
+    padding: 0 15px;
 }
 
 .image-size{
-    
     width: 100%;
 }
 
@@ -49,22 +49,24 @@ a{
     display: flex;
     background-image: url(images/frame.jpg);
     background-repeat: no-repeat;
-    height: 600px;
+    background-size: cover;
+    
 }
 
 .image-size-second{
-
 width: 93%;
 }
 
 #text-area-two{
     padding-top: 100px;
+    padding-right: 10px;
 }
 
 #third-section{
     display: flex;
     flex-wrap: wrap;
     margin-left: 15px;
+    background-color: whitesmoke;
 }
 
 #recipe{
